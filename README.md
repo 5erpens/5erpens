@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @5erpens
-- 👀 I’m interested in fintech and very keen on things like automation of trading, creation of trading bots so on.
-- 💞️ If you are looking to colabration project, reach me out.
-- 📫 Reach me via email bharathuaithal@outlook.com with subject 'From Github'
+- 👀 I am interested in fintech and am very keen on things like automation of trading, creation of trading bots etc.
+- 💞️ If you are looking to collaborate on coding projects, contact me!
+- 📫 My email is: bharathuaithal@outlook.com (make sure to write 'From Github' in the email subject)
 
 <!---
 5erpens/5erpens is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
